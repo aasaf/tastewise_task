@@ -14,6 +14,9 @@ pip install -r requirements.txt
 
 3. Configure API Key:
 Create a .env file in the root directory and paste your api key to the file
+```bash
+OWM_API_KEY = 'your owm api key'
+```
 
 
 4. Run the command: 
