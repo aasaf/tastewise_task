@@ -1,0 +1,8 @@
+.env
+/venv
+weather_sales.log
+/data/weather
+data/prediction_summary.csv
+data/predictions.csv
+data/prepared_data.csv
+data/models/model_metrics.json
