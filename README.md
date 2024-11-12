@@ -15,10 +15,8 @@ pip install -r requirements.txt
 3. Configure API Key:
 Create a .env file in the root directory and paste your api key to the file
 
-4. Sales data:
-Create a data directory and store there the sales_data.xlsx
 
-5. Run the command: 
+4. Run the command: 
 ```bash
 python ./main.py
 ```
