@@ -12,8 +12,7 @@ source ./venv/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Configure API Key:
-Create a .env file in the root directory and paste your api key to the file
+3. API key- Create a .env file in the root directory and paste your api key to the file
 ```bash
 OWM_API_KEY = 'your_owm_api_key'
 ```
